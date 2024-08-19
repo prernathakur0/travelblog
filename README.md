@@ -1,0 +1,1 @@
+A modern travel website developed using React.js and Bootstrap. The site provides users with information on various travel destinations, including images, descriptions, and travel tips. It features a responsive design, making it accessible and visually appealing across different screen sizes. The use of Bootstrap ensures a consistent and stylish layout.
